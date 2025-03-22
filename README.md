@@ -1,3 +1,5 @@
 # resumo-do-lab
 Repositório para aula de lab AZ-900
 No video para aula de laboratório a instrutora Valeria mostra a introdução inicial a página do microsoft azure, como você pode personalizar para alterar cor, display e linguagens. Ela da uma breve descrições do que contém os menus de Computação e Rede, realizando ainda alguns comentários de serviços oferecidos nesses menus e como eles podem ser aplicados no dia a dia de trabalho 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Bom a instrutora mostra uma tabela dos SLAs disponíveis na Microsoft Azure e explica como cada um funciona para cada contrato que você selecionar dentro dos SLAs. Outra questão importante abordada é que os recursos que ultrapassam os SLAs ficam indispóniveis além do que o que foi requisitado no acordado existe um ressarcimento por parte da microsft. Essas informações de SLAs costumam cair nos testes da certificação da AZ-900 e uma dica é que quantos mais 9 menos tempo e vice versa.
